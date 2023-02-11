@@ -1,0 +1,4 @@
+int a=20;
+int e=30;
+int f=a*e;
+print f;
